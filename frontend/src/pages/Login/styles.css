@@ -39,3 +39,10 @@
     color: #FFF;
     cursor: pointer;
 }
+
+.login-container .theme-switch {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 20px;
+}
