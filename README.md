@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Projeto desenvolvido durante a semana omnistack 8, com o objetivo de criar uma aplicação semelhante ao tinder porém voltada a devs, com aviso de match entre usuários em tempo real através de websockets utilizando socket.io
+Projeto desenvolvido durante a semana omnistack 8, com o objetivo de criar uma aplicação semelhante ao tinder porém voltada a devs, com aviso de match entre usuários em tempo real através de websockets utilizando socket.io.
 
 ### Desenvolvido utilizando
 
